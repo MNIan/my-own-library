@@ -1,2 +1,2 @@
-# my-own-library
-created my own is touching function
+# collisionAlgorithm
+Algorithm to detect collision between two objects
